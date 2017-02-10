@@ -2,7 +2,8 @@
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
-#GET OFF MY PI GET OFF MY PI GET OFF MY PI
+
+# edited by Nick Mauroza
 import random, copy, sys, pygame
 from pygame.locals import *
 

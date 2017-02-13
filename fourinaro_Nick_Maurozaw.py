@@ -23,10 +23,10 @@ WINDOWHEIGHT = 480 # height in pixels
 XMARGIN = int((WINDOWWIDTH - BOARDWIDTH * SPACESIZE) / 2)
 YMARGIN = int((WINDOWHEIGHT - BOARDHEIGHT * SPACESIZE) / 2)
 
-PURPLE = (148, 0, 211) #changed this color setting to get purple background color
+PURPLE = (0, 255, 127) #changed this color
 WHITE = (255, 255, 255)
 
-BGCOLOR = PURPLE #changed this from blue green background color
+BGCOLOR = PURPLE #the background is now green
 TEXTCOLOR = WHITE  
 
 RED = 'red'
